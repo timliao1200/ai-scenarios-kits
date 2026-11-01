@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/timliao1200/ai-scenarios-kits/main/kits/<那�
 |---|---|---|---|
 | kit-01 · 初次見面 | 跟你的數位員工互相認識，寫出它的第一份 `AGENTS.md`，最後幫它取名字 | 10–15 分鐘 | `kits/01-first-meet.md` |
 | kit-02 · 找場景 | 它先走一遍你的一週、提出點子、替你打分，把三張場景卡記進今天的日記 | 約 15 分鐘 | `kits/02-find-scenes.md` |
+| kit-03 · 第二大腦 | 從你想交辦的工作問起，找出公司知識在哪裡，寫成知識地圖；再用 LLM Wiki 整理第一頁知識 | 約 50 分鐘 | `kits/03-second-brain.md` |
 
 ## 跟 your-agent-starter 的關係
 
